@@ -1,0 +1,13 @@
+{
+  "name": "altdevfirstnpm",
+  "version": "1.0.33",
+  "description": "First altdev practise",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "AltDev",
+  "license": "MIT"
+}
